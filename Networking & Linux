@@ -1,0 +1,38 @@
+•ipconfig - Show network configuration
+•ipconfig/all - Show detailed IP information
+•ifconfig/release - Release IP address
+•ipconfig/renew - Renew IP address
+•ipconfig/flushdns - Clear DNS cache
+•ping[IP] - Check network connectivity to a server.
+•tracert[IP] - Trace route to a destination
+
+•nslookup[domain] - Query DNS for domain details
+•netstat-an - Show active network connections
+•arp-a - Show ARP cache
+•hostname - Display computer name
+•getmac - Show MAC address of network adapters
+•netuse - Connect to a share resource
+•netshare - List shared resource
+•netstart - Show service
+•netstop - Configure network
+
+                   **Linux Commands**
+•ls - List directory contents
+•cd - Change directory
+•cp - Copy file or directories
+•mv - Move / rename files
+•mkdir - Create new directory
+•rmdir - Remove empty directory
+•touch - Create an empty file
+•chmod - Change file permissions
+•chown - Change file owner and group
+•cat - View file contents
+•ls-la - hidden files
+•pwd - Print working directories
+•grep - Search text using patterns
+•sudo - Execute commands as super user
+•man - Display manual pages
+•echo - Display a line of text
+•ps - Display currently running process
+•kill - Terminate a process using its PID
+•top - Display real time system statistics and processes
